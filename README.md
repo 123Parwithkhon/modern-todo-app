@@ -1,35 +1,29 @@
-# 📝 TaskFlow — Modern To-Do Application
+# 📝 TaskFlow — Modern To-Do Application / Современный список задач
 
-A clean, responsive, and intuitive To-Do List web application built using **vanilla JavaScript**, **HTML5**, and **CSS3**. This project demonstrates core DOM manipulation, event handling, and modern UI design principles with smooth gradients and typography.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[English](#english) | [Русский](#русский)
 
 ---
 
-## ✨ Features
+<a name="english"></a>
+## 🇬🇧 English
 
-- **Add Tasks**: Easily create new tasks with instant visual feedback.
-- **Mark as Completed**: Toggle task completion status with a simple click.
-- **Delete Tasks**: Remove individual tasks with a clean delete action.
-- **Input Validation**: Prevents empty task submissions with user alerts.
-- **Responsive & Clean UI**: Vibrant visual styling with Google Poppins typography and modern gradients.
+### Overview
+TaskFlow is a sleek, responsive, and user-friendly To-Do List web application built using **vanilla JavaScript**, **HTML5**, and **CSS3**. It demonstrates key front-end fundamentals including DOM manipulation, event handling, dynamic UI updates, and clean gradient styling.
 
----
+### ✨ Features
+- **Add Tasks**: Easily create new tasks with instant UI updates.
+- **Mark as Completed**: Click any task to toggle its completion status (strike-through style).
+- **Delete Tasks**: Remove individual tasks with a single click.
+- **Input Validation**: Prevents adding empty tasks with a user notification.
+- **Clean UI/UX**: Styled with vibrant purple gradients, custom shadows, and Google's Poppins typography.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
+- **HTML5** — Document structure and semantic elements.
+- **CSS3** — Custom styling, modern linear gradients, and responsive layout.
+- **JavaScript (ES6+)** — Dynamic task adding, event delegation, and DOM updates.
+- **FontAwesome 5 & Google Fonts** — Vector icons and clean typography.
 
-- **Markup**: [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)[cite: 1]
-- **Styling**: Custom [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) (Flexbox, CSS Variables, Gradients)
-- **Scripting**: Vanilla [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (DOM Manipulation & Event Listening)
-- **Fonts & Icons**: [Google Fonts (Poppins)](https://fonts.google.com/) & [FontAwesome 5](https://fontawesome.com/)[cite: 1]
-
----
-
-## 🚀 Quick Start & Usage
-
+### 🚀 Getting Started
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/modern-todo-app.git](https://github.com/YOUR-USERNAME/modern-todo-app.git)
+   git clone [https://github.com/123Parwithkhon/modern-todo-app.git](https://github.com/123Parwithkhon/modern-todo-app.git)
